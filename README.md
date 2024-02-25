@@ -25,9 +25,9 @@ The project uses a sample dataset containing customer information such as age, g
 
 # Usage:
 
-Clone the repository: git clone https://github.com/scholarrafe/Customer-Segmentation-project.git
-Navigate to the project directory: cd customer-segmentation
-Install dependencies: pip install -r requirements.txt
+Clone the repository: git clone https://github.com/scholarrafe/Customer-Segmentation-project.git \n
+Navigate to the project directory: cd customer-segmentation \n
+Install dependencies: pip install -r requirements.txt \n
 Run the Jupyter notebook or Python script to perform customer segmentation with K-Means clustering.
 
 # Author:
