@@ -17,11 +17,11 @@ The project uses a sample dataset containing customer information such as age, g
 
 # Dependencies:
 
-- Python 3.x \
-- NumPy\
-- Pandas\
-- Matplotlib\
-- Scikit-learn\
+- Python 3.x 
+- NumPy
+- Pandas
+- Matplotlib
+- Scikit-learn
 
 # Usage:
 
