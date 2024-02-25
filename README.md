@@ -17,28 +17,18 @@ The project uses a sample dataset containing customer information such as age, g
 
 # Dependencies:
 
-Python 3.x
-NumPy
-Pandas
-Matplotlib
-Scikit-learn
+- Python 3.x \
+- NumPy\
+- Pandas\
+- Matplotlib\
+- Scikit-learn\
 
 # Usage:
 
-Clone the repository: git clone https://github.com/yourusername/customer-segmentation.git
+Clone the repository: git clone https://github.com/scholarrafe/Customer-Segmentation-project.git
 Navigate to the project directory: cd customer-segmentation
 Install dependencies: pip install -r requirements.txt
 Run the Jupyter notebook or Python script to perform customer segmentation with K-Means clustering.
-References:
-
-# Scikit-learn Documentation
-K-Means Clustering Wikipedia
-An Introduction to K-Means Clustering (Analytics Vidhya)
-Contributing:
-Contributions to improve the project are welcome! Feel free to open issues, submit pull requests, or provide feedback.
-
-# License:
-This project is licensed under the MIT License. See the LICENSE file for details.
 
 # Author:
 Md. Abdur Rafe
